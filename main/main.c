@@ -6,7 +6,7 @@
 #include <esp_err.h>
 #include "ssd1306.h"
 
-#define MAX_DISTANCE_CM 500 // 5m max
+#define MAX_DISTANCE_CM 400 // 5m max
 
 #define TRIGGER_GPIO 5
 #define ECHO_GPIO 18
